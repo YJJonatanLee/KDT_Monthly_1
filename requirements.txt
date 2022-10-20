@@ -32,7 +32,7 @@ pandas==1.5.1
 Pillow==9.2.0
 protobuf==3.20.3
 pyarrow==9.0.0
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1649385121707/work
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1649385121707/work 
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
 pydeck==0.8.0b4
 Pygments==2.13.0
