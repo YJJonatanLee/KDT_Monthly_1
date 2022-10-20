@@ -61,4 +61,4 @@ tzdata==2022.5
 tzlocal==4.2
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
 validators==0.20.0
-zipp==3.9.0
+zipp==3.9.0 
