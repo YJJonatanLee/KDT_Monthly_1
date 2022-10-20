@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.title('Video Games Sales')
 
-df = pd.read_csv("/Users/youngjunlee/프로젝트/KDT/Project/remote_repo/[KDT] 인공지능 5주차 실습/monthly_project/Video_Games_Sales_as_at_22_Dec_2016.csv")
+df = pd.read_csv("./KDT_Monthly_1/Video_Games_Sales_as_at_22_Dec_2016.csv")
 
 if st.checkbox('Show raw data'):
     st.subheader('Raw data')
